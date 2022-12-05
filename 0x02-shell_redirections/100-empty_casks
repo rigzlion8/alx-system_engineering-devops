@@ -1,3 +1,2 @@
 #!/bin/bash
 find . -empty | rev | cut --delimiter='/' -f l | rev
-
