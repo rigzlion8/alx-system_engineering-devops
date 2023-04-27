@@ -3,9 +3,9 @@
 #but for the 9th iteration, display Best School and then Hi on a new line.
 
 count=1
-while [ $counter -le 10 ];
+while [ $count -le 10 ];
 do
-	if [ $counter -eq 9 ];
+	if [ $count -eq 9 ];
 	then
 		echo "Best School"
 		echo "Hi"
