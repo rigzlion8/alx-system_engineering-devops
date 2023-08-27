@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# This bash script configures Nginx server so that /redirect_me is redirecting to another page
+# This bash script configures Nginx server so that /redirect_me is redirected to another page
 # The redirection must be a “301 Moved Permanently”
 
 sudo apt-get -y install nginx
