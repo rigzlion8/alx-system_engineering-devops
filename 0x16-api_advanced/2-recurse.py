@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" Create recursive function that queries the Reddit API """
+"""A script to create recursive function that queries the Reddit API """
 import requests
 import sys
 after = None
